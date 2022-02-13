@@ -1,0 +1,5 @@
+discord
+regex
+pandas
+asyncio
+pycryptodome
